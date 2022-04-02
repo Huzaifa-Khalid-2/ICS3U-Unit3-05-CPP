@@ -25,7 +25,7 @@ int main() {
             std::cout << "It's January." << std::endl;
             break;
         case 2 :
-            std::cout << "It'sfebruary." <<std::endl;
+            std::cout << "It's February." <<std::endl;
             break;
         case 3 :
             std::cout << "It's March." << std::endl;
