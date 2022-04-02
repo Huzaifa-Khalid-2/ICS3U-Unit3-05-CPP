@@ -61,5 +61,5 @@ int main() {
             std::cout << "Sorry big man I got nothing (・_・ヾ"
                 << std::endl;
     }
-        std::cout << "\nDone.";
-    }
+    std::cout << "\nDone.";
+}
