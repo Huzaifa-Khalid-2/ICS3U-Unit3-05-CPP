@@ -14,7 +14,7 @@ int main() {
     int number;
 
     // input
-    std::cout << "Enter a integer: ";
+    std::cout << "Insert any number from 1-12 (integers): ";
     std::cin >> number;
     std::cout << " " << std::endl;
 
