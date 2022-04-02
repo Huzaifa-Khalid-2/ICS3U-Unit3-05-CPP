@@ -1,7 +1,7 @@
 // Copyright (c) 2022 St. Mother Teresa HS All rights reserved.
 //
 
-// Created by: Huzaifa
+// Created by: Huzaifa Khalid
 // Created on: March 2022
 // This function takes a random integer between 1-12 from the user
 // and tells them what the month is accordingly
